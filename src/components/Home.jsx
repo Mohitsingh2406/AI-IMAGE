@@ -20,7 +20,6 @@ const Home = () => {
             alert("Error while enhancing the image. Please try again later.");
         }
     };
-
     return (
         <>
             <ImageUpload UploadImageHandler={UploadImageHandler} />
