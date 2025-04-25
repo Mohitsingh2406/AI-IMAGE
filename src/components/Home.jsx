@@ -21,6 +21,7 @@ const Home = () => {
         }
     };
     return (
+        
         <>
             <ImageUpload UploadImageHandler={UploadImageHandler} />
             <ImagePreview
