@@ -23,6 +23,7 @@ const ImageUpload = (props) => {
                 </span>
             </label>
         </div>
+        
     );
 };
 
